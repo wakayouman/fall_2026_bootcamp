@@ -1,0 +1,13 @@
+DISK SNAPSHOT
+=============
+Target path: /Users/michaelturner/Documents/TheoWAF/cpg/cloudfundamentals/fall_2026_bootcamp/live-server-diagnostics
+
+Filesystem usage:
+Filesystem      Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1   3.6Ti   768Gi   2.9Ti    21%    1.6M   31G    0%   /System/Volumes/Data
+
+Directory size:
+ 44K	/Users/michaelturner/Documents/TheoWAF/cpg/cloudfundamentals/fall_2026_bootcamp/live-server-diagnostics
+
+File count:
+       2
