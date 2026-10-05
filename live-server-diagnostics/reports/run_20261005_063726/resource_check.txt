@@ -1,0 +1,9 @@
+SYSTEM INFO
+===========
+Timestamp: 2026-10-05 06:37:26.959687
+Hostname: MacBookPro.hsd1.il.comcast.net
+Operating system: Darwin
+OS version: Darwin Kernel Version 25.5.0: Tue Jun  9 22:18:58 PDT 2026; root:xnu-12377.121.10~1/RELEASE_ARM64_T6000
+Machine type: arm64
+Current user ID: 501
+Current working directory: /Users/michaelturner/Documents/TheoWAF/cpg/cloudfundamentals/fall_2026_bootcamp/live-server-diagnostics

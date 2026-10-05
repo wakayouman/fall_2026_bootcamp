@@ -1,0 +1,7 @@
+RESOURCE CHECK
+==============
+Disk usage: 21.29%
+Disk threshold: 85%
+Disk status: OK
+One-minute load average: 3.79931640625
+Load status: OK
